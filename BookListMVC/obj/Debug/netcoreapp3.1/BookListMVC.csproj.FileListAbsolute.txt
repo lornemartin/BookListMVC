@@ -451,3 +451,4 @@ C:\Users\lrnma\source\repos\Training\BookListMVC\BookListMVC\obj\Debug\netcoreap
 C:\Users\lrnma\source\repos\Training\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\lrnma\source\repos\Training\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\lrnma\source\repos\Training\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\lrnma\source\repos\Training\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Upsert.cshtml.g.cs
