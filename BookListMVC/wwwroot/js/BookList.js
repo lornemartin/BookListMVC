@@ -23,11 +23,11 @@ function loadDataTable() {
                             Edit
                         </a>
                         &nbsp;
-                        <a class='btn btn-danger text-white' style='cursor:pointer;width:70px;'
+                        <a class='btn btn-danger text-white' style='cursor:pointer; width:70px;'
                             onclick=Delete('/books/Delete?id='+${data})>
                             Delete
                         </a>
-                    </div>`;
+                        </div>`;
                 }, "width": "40%"
             }
         ],
@@ -35,7 +35,7 @@ function loadDataTable() {
             "emptyTable": "no data found"
         },
         "width": "100%"
-    })
+    });
 }
 
 function Delete(url) {
